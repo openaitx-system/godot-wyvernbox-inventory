@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=don-tnowe&project=godot-wyvernbox-inventory&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Wyvernbox
 
 An addon for versatile inventory systems.
